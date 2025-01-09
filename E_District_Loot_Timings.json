@@ -1,0 +1,103 @@
+{
+    "maps": {
+        "E-District": {
+            "POIs": {
+                "Angel's Atrium": {
+                    "AVG Leave Time": {
+                        "Time": 140
+                    }
+                },
+                "Blossom Drive": {
+                    "AVG Leave Time": {
+                        "Time": 140
+                    }
+                },
+                "Boardwalk": {
+                    "AVG Leave Time": {
+                        "Time": 140
+                    }
+                },
+                "Energy Bank": {
+                    "AVG Leave Time": {
+                        "Time": 140
+                    }
+                },
+                "City Hall": {
+                    "AVG Leave Time": {
+                        "Time": 140
+                    }
+                },
+                "Draft Point": {
+                    "AVG Leave Time": {
+                        "Time": 140
+                    }
+                },
+                "Electro Dam": {
+                    "AVG Leave Time": {
+                        "Time": 140
+                    }
+                },
+                "Galleria": {
+                    "AVG Leave Time": {
+                        "Time": 140
+                    }
+                },
+                "Heights": {
+                    "AVG Leave Time": {
+                        "Time": 140
+                    }
+                },
+                "Humbert Labs": {
+                    "AVG Leave Time": {
+                        "Time": 140
+                    }
+                },
+                "Lotus": {
+                    "AVG Leave Time": {
+                        "Time": 140
+                    }
+                },
+                "Neon Square": {
+                    "AVG Leave Time": {
+                        "Time": 140
+                    }
+                },
+                "Old Town": {
+                    "AVG Leave Time": {
+                        "Time": 140
+                    }
+                },
+                "Resort": {
+                    "AVG Leave Time": {
+                        "Time": 140
+                    }
+                },
+                "Riverside": {
+                    "AVG Leave Time": {
+                        "Time": 140
+                    }
+                },
+                "Shipyard Arcade": {
+                    "AVG Leave Time": {
+                        "Time": 140
+                    }
+                },
+                "Stadium": {
+                    "AVG Leave Time": {
+                        "Time": 140
+                    }
+                },
+                "Street Market": {
+                    "AVG Leave Time": {
+                        "Time": 140
+                    }
+                },
+                "Viaduct": {
+                    "AVG Leave Time": {
+                        "Time": 140
+                    }
+                }
+            }
+        }
+    }
+}
