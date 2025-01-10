@@ -1,0 +1,24 @@
+{
+  "Map": "E-District",
+  "POIs": [
+    { "name": "Angel's Atrium", "x": 2882, "y": 2011 },
+    { "name": "Blossom Drive", "x": 517, "y": 2409 },
+    { "name": "Boardwalk", "x": 655, "y": 1440 },
+    { "name": "Energy Bank", "x": 2155, "y": 1839 },
+    { "name": "City Hall", "x": 1351, "y": 1394 },
+    { "name": "Draft Point", "x": 1780, "y": 2865 },
+    { "name": "Electro Dam", "x": 2662, "y": 855 },
+    { "name": "Galleria", "x": 2541, "y": 1508 },
+    { "name": "Heights", "x": 3336, "y": 1669 },
+    { "name": "Humbert Labs", "x": 2663, "y": 3286 },
+    { "name": "Lotus", "x": 1828, "y": 755 },
+    { "name": "Neon Square", "x": 982, "y": 2255 },
+    { "name": "Old Town", "x": 2535, "y": 3666 },
+    { "name": "Resort", "x": 770, "y": 796 },
+    { "name": "Riverside", "x": 2028, "y": 1419 },
+    { "name": "Shipyard Arcade", "x": 1842, "y": 3666 },
+    { "name": "Stadium", "x": 3120, "y": 2526 },
+    { "name": "Street Market", "x": 860, "y": 2978 },
+    { "name": "Viaduct", "x": 1272, "y": 3330 }
+  ]
+}
