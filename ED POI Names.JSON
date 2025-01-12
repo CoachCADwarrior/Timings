@@ -19,6 +19,7 @@
     { "name": "Shipyard Arcade", "x": 1842, "y": 3666 },
     { "name": "Stadium", "x": 3120, "y": 2526 },
     { "name": "Street Market", "x": 860, "y": 2978 },
+    { "name": "Slums", "x": 2696, "y": 2561 },
     { "name": "Viaduct", "x": 1272, "y": 3330 }
   ]
 }
