@@ -1,7 +1,7 @@
 {
   "Map": "E-District",
   "POIs": [
-    { "name": "Angel's Atrium", "x": 2880, "y": 1975 },
+    { "name": "Angels Atrium", "x": 2880, "y": 1975 },
     { "name": "Blossom Drive", "x": 510, "y": 2380 },
     { "name": "Boardwalk", "x": 655, "y": 1440 },
     { "name": "Energy Bank", "x": 2155, "y": 2000 },
