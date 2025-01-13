@@ -1,7 +1,7 @@
 {
   "Map": "E-District",
   "POIs": [
-    { "name": "Angel's Atrium", "x": 2882, "y": 1990 },
+    { "name": "Angel's Atrium", "x": 2880, "y": 1975 },
     { "name": "Blossom Drive", "x": 510, "y": 2380 },
     { "name": "Boardwalk", "x": 655, "y": 1440 },
     { "name": "Energy Bank", "x": 2155, "y": 2000 },
@@ -10,16 +10,16 @@
     { "name": "Electro Dam", "x": 2662, "y": 855 },
     { "name": "Galleria", "x": 2541, "y": 1490 },
     { "name": "Heights", "x": 3335, "y": 1690 },
-    { "name": "Humbert Labs", "x": 2710, "y": 3250 },
+    { "name": "Humbert Labs", "x": 2730, "y": 3240 },
     { "name": "Lotus", "x": 1828, "y": 735 },
     { "name": "Neon Square", "x": 982, "y": 2255 },
     { "name": "Old Town", "x": 2535, "y": 3666 },
     { "name": "Resort", "x": 770, "y": 795 },
-    { "name": "Riverside", "x": 2028, "y": 1410 },
+    { "name": "Riverside", "x": 2020, "y": 1400 },
     { "name": "Shipyard Arcade", "x": 1842, "y": 3665 },
     { "name": "Stadium", "x": 3100, "y": 2525 },
     { "name": "Street Market", "x": 860, "y": 2985 },
-    { "name": "Slums", "x": 2690, "y": 2560 },
-    { "name": "Viaduct", "x": 1280, "y": 3320 }
+    { "name": "Slums", "x": 2670, "y": 2570 },
+    { "name": "Viaduct", "x": 1280, "y": 3310 }
   ]
 }
