@@ -4,97 +4,102 @@
             "POIs": {
                 "Angel's Atrium": {
                     "AVG Leave Time": {
-                        "Time": 140
+                        "Time": 60
                     }
                 },
                 "Blossom Drive": {
                     "AVG Leave Time": {
-                        "Time": 140
+                        "Time": 85
                     }
                 },
                 "Boardwalk": {
                     "AVG Leave Time": {
-                        "Time": 140
+                        "Time": 75
                     }
                 },
                 "Energy Bank": {
                     "AVG Leave Time": {
-                        "Time": 140
+                        "Time": 90
                     }
                 },
                 "City Hall": {
                     "AVG Leave Time": {
-                        "Time": 140
+                        "Time": 75
                     }
                 },
                 "Draft Point": {
                     "AVG Leave Time": {
-                        "Time": 140
+                        "Time": 75
                     }
                 },
                 "Electro Dam": {
                     "AVG Leave Time": {
-                        "Time": 140
+                        "Time": 90
                     }
                 },
                 "Galleria": {
                     "AVG Leave Time": {
-                        "Time": 140
+                        "Time": 60
                     }
                 },
                 "Heights": {
                     "AVG Leave Time": {
-                        "Time": 140
+                        "Time": 85
                     }
                 },
                 "Humbert Labs": {
                     "AVG Leave Time": {
-                        "Time": 140
+                        "Time": 80
                     }
                 },
                 "Lotus": {
                     "AVG Leave Time": {
-                        "Time": 140
+                        "Time": 90
                     }
                 },
                 "Neon Square": {
                     "AVG Leave Time": {
-                        "Time": 140
+                        "Time": 80
                     }
                 },
                 "Old Town": {
                     "AVG Leave Time": {
-                        "Time": 140
+                        "Time": 75
                     }
                 },
                 "Resort": {
                     "AVG Leave Time": {
-                        "Time": 140
+                        "Time": 90
                     }
                 },
                 "Riverside": {
                     "AVG Leave Time": {
-                        "Time": 140
+                        "Time": 65
                     }
                 },
                 "Shipyard Arcade": {
                     "AVG Leave Time": {
-                        "Time": 140
+                        "Time": 90
                     }
                 },
                 "Stadium": {
                     "AVG Leave Time": {
-                        "Time": 140
+                        "Time": 90
                     }
                 },
                 "Street Market": {
                     "AVG Leave Time": {
-                        "Time": 140
+                        "Time": 80
+                    }
+                },
+                "Slums": {
+                    "AVG Leave Time": {
+                        "Time": 55
                     }
                 },
                 "Viaduct": {
                     "AVG Leave Time": {
-                        "Time": 140
+                        "Time": 75
                     }
                 }
             }
